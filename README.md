@@ -90,6 +90,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/addisonjkauzer/leetcode-submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/addisonjkauzer/leetcode-submissions/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -114,4 +115,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/addisonjkauzer/leetcode-submissions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Greedy
+|  |
+| ------- |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/addisonjkauzer/leetcode-submissions/tree/master/2530-maximal-score-after-applying-k-operations) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/addisonjkauzer/leetcode-submissions/tree/master/2530-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
